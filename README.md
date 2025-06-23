@@ -11,7 +11,7 @@ The objective of this project is to clean, standardize, and preprocess a raw ret
 - Removing duplicates and renaming columns for uniformity.
 - Saving the fully cleaned dataset `Stores_fully_cleaned.csv` in a structured format for downstream tasks such as reporting, machine learning, or dashboarding.
 
-  # 🧹 Sales Data Cleaning Script
+# 🧹 Sales Data Cleaning Script
 
 This project is a Python-based data preprocessing script to clean and standardize a retail sales dataset (`Sales.csv`) and output a clean version as `Stores_fully_cleaned.csv`.
 
