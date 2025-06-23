@@ -72,7 +72,7 @@ Adds synthetic columns to simulate realistic data cleaning scenarios:
 pip install pandas numpy
 ```
 # 🚀 Run the Script
-  Place Sales.csv in the same directory and run:
+  Place `Sales.csv` in the same directory and run:
 
 ```bash
 python task1_swathi.py
